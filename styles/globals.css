@@ -1,0 +1,25 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Bahnschrift;
+  font-size: 16px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+/* dark theme */
+body {
+  background-color: #222222;
+  color: #ffffff;
+}
+
+/* light theme */
